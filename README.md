@@ -8,4 +8,6 @@ This framework is currently being built by [Matt Sparks](http://developmentmatt.
 
 [Building a PHP Framework: Part 3 - Time For Action](http://developmentmatt.com/building-a-php-framework-part-3-time-for-action/)
 
+[Building a PHP Framework: Part 4 - The Foundation](http://developmentmatt.com/building-a-php-framework-part-4-the-foundation/)
+
 Be sure to follow along on Twitter – [@DevelopmentMatt](https://twitter.com/DevelopmentMatt).
