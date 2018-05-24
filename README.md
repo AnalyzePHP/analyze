@@ -10,4 +10,6 @@ This framework is currently being built by [Matt Sparks](http://developmentmatt.
 
 [Building a PHP Framework: Part 4 - The Foundation](http://developmentmatt.com/building-a-php-framework-part-4-the-foundation/)
 
+[Building a PHP Framework: Part 5 - Test Driven Development](http://developmentmatt.com/building-a-php-framework-part-5-test-driven-development/)
+
 Be sure to follow along on Twitter – [@DevelopmentMatt](https://twitter.com/DevelopmentMatt).
