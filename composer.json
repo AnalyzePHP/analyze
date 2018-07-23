@@ -1,0 +1,18 @@
+{
+    "name": "analyzephp/analyze",
+    "description": "The Analyze PHP Framework",
+    "keywords": ["framework", "analyze", "analyzephp"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Sparks",
+            "email": "matt@sparkscoding.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.0",
+        "josegonzalez/dotenv": "dev-master"
+    }
+}
